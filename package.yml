@@ -1,5 +1,5 @@
 name   : test-a          # name of the package
-version: 0.0.1       # version of the package
+version: 0.0.2       # version of the package
 kind   : tool                     # one of tool or spec(s)
 
 author:
